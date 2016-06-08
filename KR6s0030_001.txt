@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:07:57.565962
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:55
 #+TITLE: 諸經要略文
 #+PROPERTY: CBETA_ID T85n2821
 #+PROPERTY: ID KR6s0030
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2821
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0030_T_000-1204c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0030_T_001-1204c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2821¶
-
- 諸經要略文¶
+No. 2821¶
+諸經要略文¶
 ¶
 
 尊婆須蜜經說。若為亡人設齋眾僧行食遍。¶
@@ -50,7 +49,7 @@ No.2821¶
 鳥聞比丘誦經得生天緣。出賢愚經　昔佛¶
 在世時有比丘林中誦經。音聲雅好。有一鳥¶
 聞法。在樹而聽。時有獵師所射。命終生忉利¶
-天。面貌端政無有倫比。自識宿命。知因比丘¶
+天。面貌端政無有倫土。自識宿命。知因比丘¶
 見經聽法得生此中。即持天花到比丘所。禮¶
 敬問訊。以天花香供養比丘。比丘且問知其¶
 委由。即命令座為其說法得須陀洹果。既得¶
@@ -96,9 +95,9 @@ No.2821¶
 「　勸僧以俗守巖壇
 　莫喫胡䕑觸佛顏¶
 　薩埵投岸由自辨
-　菜中間擇有何難
+　菜中間擇有何難」
 #+END_VERSE
-」¶
+¶
 
 修四正懃。一惡法未生方便令不生。二惡法¶
 已生方便令除斷。三善法未生方便令生。四¶
